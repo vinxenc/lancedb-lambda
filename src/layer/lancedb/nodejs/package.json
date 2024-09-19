@@ -1,0 +1,8 @@
+{
+  "name": "lancedb",
+  "version": "0.1.0",
+  "dependencies": {
+    "@lancedb/lancedb": "0.10.0",
+    "@lancedb/lancedb-linux-x64-gnu": "0.10.0"
+  }
+}
